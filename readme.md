@@ -49,8 +49,4 @@ Whether you're a **beginner** or just revising HTML, you’ll find simple, clear
    ```bash
    git clone https://github.com/SamratDesai7/HTML.git
    cd HTML
-  
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" />
-</p>
-```
+ 
